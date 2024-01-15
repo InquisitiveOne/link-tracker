@@ -1,4 +1,4 @@
-This extension can be used to save web links to come back to. 
+This extension can be used to save web links in Chrome. 
 
 To use this extension in Chrome, first download the repository files. 
 
